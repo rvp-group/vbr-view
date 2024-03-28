@@ -7,4 +7,4 @@ curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.s
 sudo apt install -y git-lfs
 git lfs install
 ```
-After that, normal git commands can be executed.
+After that, usual git commands can be executed.
